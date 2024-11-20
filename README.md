@@ -1,2 +1,2 @@
 ﻿# Factorial-calculation-on-JS
-Andrew Bashchak IPZs-24-2.
+Andrew Bashchak IPZs-24-2
